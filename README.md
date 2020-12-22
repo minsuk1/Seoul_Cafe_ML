@@ -6,3 +6,4 @@
 
 ## 한계점
 
+[서울시 카페 상권분석(김지훈, 오민석).pdf](https://github.com/minsuk1/Seoul_Cafe_ML/files/5727257/default.pdf)

@@ -5,6 +5,10 @@
 
 ## ML pipeline
 
+![flow](https://user-images.githubusercontent.com/59672222/102838330-41a7a180-4441-11eb-914d-e40216920179.PNG)
+
+
+
 ## 결론
 
 ## 한계점

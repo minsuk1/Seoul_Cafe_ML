@@ -8,7 +8,8 @@
 ![flow](https://user-images.githubusercontent.com/59672222/102838330-41a7a180-4441-11eb-914d-e40216920179.PNG)
 
 
-## 결과물
+## 결과물(추천지역)
+![추천지역](https://user-images.githubusercontent.com/59672222/102838668-212c1700-4442-11eb-8ed1-6a0e3ab17e3a.PNG)
 
 
 
